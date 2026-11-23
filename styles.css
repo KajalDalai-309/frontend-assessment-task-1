@@ -107,7 +107,6 @@ section {
   cursor: not-allowed;
 }
 
-
 /* ---- HEADER ---- */
 header {
   position: sticky;
@@ -164,7 +163,6 @@ nav ul li a:hover {
   background: #f0eeff;
 }
 
-
 /* ---- HERO ---- */
 .hero-section {
   min-height: calc(100vh - 64px);
@@ -214,7 +212,6 @@ nav ul li a:hover {
   flex-wrap: wrap;
 }
 
-
 /* ---- ABOUT ---- */
 .about-grid {
   display: grid;
@@ -253,7 +250,6 @@ nav ul li a:hover {
   color: var(--text-muted);
   font-size: 0.95rem;
 }
-
 
 /* ---- SKILLS ---- */
 .skills-section {
@@ -300,7 +296,6 @@ nav ul li a:hover {
   margin-top: 6px;
   text-align: right;
 }
-
 
 /* ---- PROJECTS ---- */
 .projects-grid {
@@ -368,7 +363,6 @@ nav ul li a:hover {
   border-color: var(--primary);
 }
 
-
 /* ---- BLOG ---- */
 .blog-section {
   background: var(--bg-alt);
@@ -408,7 +402,6 @@ nav ul li a:hover {
 .blog-status-box button {
   margin-top: 14px;
 }
-
 
 /* ---- CONTACT ---- */
 .contact-layout {
@@ -526,7 +519,6 @@ nav ul li a:hover {
   color: var(--text-muted);
 }
 
-
 /* ---- FOOTER ---- */
 footer {
   background: var(--text);
@@ -535,7 +527,6 @@ footer {
   text-align: center;
   font-size: 0.88rem;
 }
-
 
 /* ---- RESPONSIVE ---- */
 @media (max-width: 768px) {
