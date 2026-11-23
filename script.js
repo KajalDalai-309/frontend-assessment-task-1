@@ -1,14 +1,14 @@
 document.getElementById('year').textContent = new Date().getFullYear();
 
 const skills = [
-  { name: 'HTML5', level: 90 },
-  { name: 'CSS3 / Flexbox / Grid', level: 85 },
-  { name: 'JavaScript (ES6+)', level: 78 },
-  { name: 'Responsive Design', level: 82 },
-  { name: 'Git & GitHub', level: 70 },
-  { name: 'REST APIs / Fetch', level: 72 },
-  { name: 'Problem Solving', level: 75 },
-  { name: 'VS Code', level: 88 },
+  { name: 'HTML5 & CSS3', level: 92 },
+  { name: 'JavaScript (ES6+)', level: 85 },
+  { name: 'React.js & Next.js', level: 82 },
+  { name: 'TypeScript', level: 78 },
+  { name: 'Tailwind CSS', level: 88 },
+  { name: 'REST APIs & GraphQL', level: 80 },
+  { name: 'Git & GitHub', level: 85 },
+  { name: 'Responsive Web Design', level: 90 },
 ];
 
 const projects = [
